@@ -1,9 +1,9 @@
 {
   "build": {
     "env": {
-      "PUSHER_KEY": "@pusher-key",
-      "PUSHER_SECRET": "@pusher-secret",
-      "PUSHER_APP_ID": "@pusher-app-id"
+      "PUSHER_KEY": "chat_123",
+      "PUSHER_SECRET": "chat_123456",
+      "PUSHER_APP_ID": "654321"
     }
   }
 }
